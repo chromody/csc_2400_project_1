@@ -1,6 +1,9 @@
-Jesus Villanueva-Segovia
-9/8/23
-readme.txt
+# File: readme.txt
+# Author: Jesus Villanueva-Segovia
+# Date: October 5, 2023
+# Description: This file simply explains how to run the different gcd methods
+# License: MIT License
+
 This is simply the explanation of how to compile and use the program.
 
 to run the program, just compile gcd-assignment-csc-2400-002.cpp. then run the executable. it will ask for inputs and print
